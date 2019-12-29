@@ -16,4 +16,9 @@ module.exports = {
             ['/blog/FirstBlog.md', '我的第一篇博客']
           ]
         },
+    markdown: {
+    
+          // 显示代码行号
+        lineNumbers: true
+      }
 }
