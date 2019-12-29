@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/blog-of-yuan/',
+    //base: '/blog-of-yuan/',
     title: 'blog-of-yuan',
     description: 'yuan zhao\'s personal blog',
     themeConfig: {
