@@ -1,19 +1,20 @@
 module.exports = {
     //base: '/blog-of-yuan/',
-    title: 'blog-of-yuan',
-    description: 'yuan zhao\'s personal blog',
+    title: 'Yuan\'s log',
+    description: 'Hi! My name is Yuan Zhao.',
     themeConfig: {
         // 你的GitHub仓库，请正确填写
-        repo: 'https://github.com/tlzhaoyuan/tlzhaoyuan.github.io',
+        repo: 'https://github.com/tlzhaoyuan',
         // 自定义仓库链接文字。
         repoLabel: 'My GitHub',
         nav: [
             { text: 'Home', link: '/' },
-            { text: 'First Blog', link: '/blog/FirstBlog.md' }
+            { text: 'Blogs', link: '/blog/FirstBlog.md' }
         ],
         sidebar: [
             ['/', '首页'],
-            ['/blog/FirstBlog.md', '我的第一篇博客']
+            ['/blog/FirstBlog.md', '我的第一篇博客'],
+            ['/blog/SecondBlog.md', '我的第二篇博客']
           ]
         },
     markdown: {
