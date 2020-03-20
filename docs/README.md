@@ -5,10 +5,13 @@ heroText: null
 tagline: null
 actionText: null
 actionLink: null
-description: Hi! My name is Yuan Zhao.
-# features: 
-# - title: Bio
-#   details: 
+description: "Personal Blog of Yuan Zhao"
 ---
-<h3>I'm currently a master's course student in University of Tokyo.</h3> 
-<h3>My research is about non-destructive inspection. I'm also interested in machine learning, statistics, and blockchain.</h3>
+<p class="front-matter">Hello! My name is Yuan Zhao.<br>I'm currently a master's course student in University of Tokyo.<br>My research is about non-destructive inspection. I'm also interested in machine learning, statistics, and blockchain.</p>
+
+<style>
+.front-matter {
+    font-weight: bold;
+    font-size: 18pt;
+}
+</style>

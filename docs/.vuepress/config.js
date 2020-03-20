@@ -1,7 +1,6 @@
 module.exports = {
     //base: '/blog-of-yuan/',
-    title: 'Yuan\'s Log',
-    // description: 'Hi! My name is Yuan Zhao.',
+    title: "Yuan's Log",
     themeConfig: {
         // 你的GitHub仓库，请正确填写
         repo: 'https://github.com/tlzhaoyuan',
