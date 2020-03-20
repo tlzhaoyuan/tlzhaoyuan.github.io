@@ -3,6 +3,7 @@ node_js:
   - lts/*
 install:
   - npm ci
+  - npm install vuepress
 script:
   - npm run build
 deploy:
