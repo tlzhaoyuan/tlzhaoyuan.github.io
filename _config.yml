@@ -3,7 +3,7 @@ title: yuan's blog
 SEOTitle: 赵渊的博客 | yuan's blog
 header-img: img/bg-default.jpg
 email: tlzhaoyuan
-description: "curb your euthusiasm"
+# description: "curb your euthusiasm"
 keyword: "赵渊的博客"
 url: "http://tlzhaoyuan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
@@ -12,16 +12,16 @@ github_repo: "https://github.com/tlzhaoyuan/tlzhaoyuan.github.io.git" # you code
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "do right things the hard way"
-sidebar-avatar: /img/avatar_akitainu.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/avatar_akitainu.png      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     暂无
-zhihu_username:     暂无
+# weibo_username:     暂无
+zhihu_username:     nothzhaoyuan
 github_username:    tlzhaoyuan
-facebook_username:  暂无
+# facebook_username:  暂无
 # jianshu_username:   暂无
 twitter_username:   tlzhaoyuan
 
@@ -62,7 +62,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID:                             #生成的clientID
   clientSecret:     #生成的clientSecret
-  repo: name.github.io    #仓库名称
+  repo: tlzhaoyuan.github.io    #仓库名称
   owner:     #github用户名
   admin: 
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
@@ -94,9 +94,9 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "知乎",
-        href: "https://www.zhihu.com/people/notzhaoyuan"
-    }
-]
+# friends: [
+#     {
+#         title: "知乎",
+#         href: "https://www.zhihu.com/people/notzhaoyuan"
+#     }
+# ]
