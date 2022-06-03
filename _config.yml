@@ -3,7 +3,7 @@ title: yuan's blog
 SEOTitle: yuan's blog
 header-img: img/bg-default.jpg
 email: tlzhaoyuan@gmail.com
-# description: "curb your euthusiasm"
+description: ""
 keyword: "赵渊的博客"
 url: "http://tlzhaoyuan.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
